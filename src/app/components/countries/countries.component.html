@@ -1,0 +1,10 @@
+<ul>
+    <app-card *ngFor="let country of countries" 
+    [country]="country">
+    </app-card>
+
+
+    <button class="btn btn-dark"
+            (click)="callCountry()">Show country</button>
+    
+</ul>

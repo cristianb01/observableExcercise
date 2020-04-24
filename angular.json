@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "observablesExcercise"
+    }
+  },
+  "defaultProject": "observablesExcercise",
+  "cli": {
+    "analytics": "301c9828-ea11-45b2-9d42-51e205ba1d7f"
+  }
 }
